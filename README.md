@@ -288,12 +288,7 @@ npx serve -s build
 5. Open a Pull Request
 
 <<<<<<< HEAD
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-=======
->>>>>>> e8b5f841fc09524ca2f4149ccac6db487ebdc219
 ## 🆘 Support
 
 For support, email support@wallet.com or create an issue in the repository.
